@@ -21,3 +21,7 @@ console.log(n2%n1);
 
 // concaténation = collage de 2 string
 "Bonjour" + "les amis"
+
+// (Accessoire) Gabarit de chaines (avec back tick)
+console.log(`la valeure de n1 est ${n1}`);
+console.log("la valeure de n1 est " + n1);
